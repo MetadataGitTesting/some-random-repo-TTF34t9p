@@ -33,5 +33,20 @@ workflows:
     datasets:
       inputs: []
       outputs: []
+  workflows/W1:
+    name: W1
+    description: Really solid info
+    author: coleman.kunde@yahoo.com
+    mode: batch
+    language: scala
+    createdAt: '2022-02-02 04:58:58'
+    datasets:
+      inputs: []
+      outputs: []
 datasets: {}
-schedules: {}
+schedules:
+  schedules/Jacqualine_Cummerata:
+    name: Jacqualine_Cummerata
+    description: Really solid info
+    createdAt: '2022-02-02 04:58:59'
+    author: coleman.kunde@yahoo.com
